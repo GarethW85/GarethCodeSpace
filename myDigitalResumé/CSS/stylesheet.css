@@ -1,7 +1,8 @@
 body{
-  font-family: sans-serif;
-  font-size:110%;
+  font-family: poppins, sans-serif;
+  font-size:100%;
   background-color: #FCF7F8;
+  color: #fff;
 }
 
 header {
@@ -9,12 +10,36 @@ header {
 }
 
 footer {
-  background-color: #343330;
+  background-color: #344648;
   text-align: center;
 }
 
 #heading {
-  background-color: #343330;
+  background-color: #344648;
   color: white;
+}
+
+.sidebar {
+  background-color: #7d8e95;
+  width: 15%;
+}
+
+.contents {
+  color: #000;
+  background-color: #fbe0c3;
+  
+}
+
+.nav-menu {
+  list-style: none;
+  text-decoration: none;
+}
+
+/* a:link {
+  text-decoration: none;
+} */
+
+a:visited {
+  color: #000;
 }
 
