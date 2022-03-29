@@ -3,43 +3,56 @@ body{
   font-size:100%;
   background-color: #FCF7F8;
   color: #fff;
+  
 }
 
 header {
   text-align: center;
 }
 
-footer {
+.footer {
   background-color: #344648;
   text-align: center;
 }
 
-#heading {
+.heading {
   background-color: #344648;
   color: white;
+  
 }
 
 .sidebar {
   background-color: #7d8e95;
   width: 15%;
+  padding-top: 0%;
+  
 }
 
 .contents {
   color: #000;
   background-color: #fbe0c3;
-  
+  padding: 2rem;
 }
 
 .nav-menu {
+  text-align: start;
   list-style: none;
   text-decoration: none;
+  padding: 4%;
 }
 
-/* a:link {
-  text-decoration: none;
-} */
+#menu {
+  padding: 4%;
+}
 
 a:visited {
   color: #000;
+}
+
+.heading img {
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+  border: 5px solid black;
 }
 
