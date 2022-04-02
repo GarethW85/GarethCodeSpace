@@ -1,7 +1,13 @@
+*{
+  
+  padding: 0%;
+  overflow-x: hidden;
+}
+
 body{
   font-family: poppins, sans-serif;
   font-size:100%;
-  background-color: #FCF7F8;
+  background-color: #fff;
   color: #fff;
   
 }
@@ -18,19 +24,18 @@ header {
 .heading {
   background-color: #344648;
   color: white;
-  margin-bottom: -1.4%;
+  padding: %;
 }
 
 .sidebar {
   background-color: #7d8e95;
   width: 15%;
-  padding-top: 0%;
-  
+  margin-bottom: 0.5%;
 }
 
 .contents {
   color: #000;
-  background-color: #fbe0c3;
+  background-color:#fff;
   padding: 2rem;
 }
 
@@ -43,6 +48,7 @@ header {
 
 #menu {
   padding: 4%;
+  color: #fff;
 }
 
 a:visited {
@@ -55,4 +61,9 @@ a:visited {
   width: 300px;
   border: 5px solid black;
 }
+
+/* nav {
+
+  margin-top:-5.3%;
+} */
 
