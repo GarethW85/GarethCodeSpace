@@ -1,10 +1,9 @@
-*{
-  
+* { 
   padding: 0%;
   overflow-x: hidden;
 }
 
-body{
+body {
   font-family: poppins, sans-serif;
   font-size:100%;
   background-color: #fff;
@@ -62,8 +61,4 @@ a:visited {
   border: 5px solid black;
 }
 
-/* nav {
-
-  margin-top:-5.3%;
-} */
 
