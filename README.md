@@ -9,3 +9,4 @@ changed profile image shape
 need to complete removal of space around menu and banner area
 
 added further changes to margins and padding as well as utilizing the flex property
+added the final changes to my resume 
