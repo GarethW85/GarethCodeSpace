@@ -1,9 +1,8 @@
 * { 
-  padding: 0%;
-  
+  padding: 0%; 
 }
 
-body {
+.body-container {
   font-family: poppins, sans-serif;
   font-size:100%;
   background-color: #fff;
@@ -12,13 +11,11 @@ body {
   flex-direction: column;
 }
 
-
 .main {
   display: flex;
   flex-direction: row;
   overflow: unset;
 }
-
 
 .heading img {
   border-radius: 50%;
@@ -27,7 +24,6 @@ body {
   border: 5px solid rgb(210, 130, 46);
   object-fit: cover;
 }
-
 
 header {
   text-align: center;
@@ -50,7 +46,6 @@ header {
   padding: 1rem;
   flex: 20%;
 }
-
 
 .contents { 
   color: #000;
@@ -78,7 +73,6 @@ header {
   padding: 4%;
   color: #fff;
 }
-
 
 a:visited {
   color: #000;
